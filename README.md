@@ -1,7 +1,3 @@
 # conflict-resolution
 
-EDITEDITEDITEDITEDITEDITEDITEDIT
-
-## This is a subheading created locally
-
-  All of this content added to the readme file has been added from my local Git repository.
+we didn't do the same edits here, uh oh
